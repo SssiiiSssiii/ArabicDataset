@@ -7,7 +7,7 @@
 * General (جمل عامة بدون موضوع مُحدد)
 # Why is this dataset different from others?
 * Higher accuracy and clarity.
-* Multiple manual reviews
+* Multiple manual reviews.
 # License
 * ASTD
 * ArSenTD
