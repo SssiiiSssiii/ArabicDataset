@@ -1,7 +1,11 @@
 # ArabicDataset
  About 7,000 Arabic sentences
-* Economy
-* Political
-* Sports
-* Culture
-* General
+* Economy (اقتصاد)
+* Political (سياسة)
+* Sports (رياضة)
+* Culture (ثقافة)
+* General (جمل عامة بدون موضوع مُحدد)
+# License
+* ASTD
+* ArSenTD
+* And some sources that I can't remember their names, and three computer science students decided to generate more than a thousand sentences in a state of clarity with a cup of coffee ;)
