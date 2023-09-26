@@ -5,6 +5,7 @@
 * Sport (رياضة)
 * Culture (ثقافة)
 * General (جمل عامة بدون موضوع مُحدد)
+# Why is this dataset different from others?
 # License
 * ASTD
 * ArSenTD
