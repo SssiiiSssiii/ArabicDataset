@@ -9,6 +9,6 @@
 * Higher accuracy and clarity.
 * Multiple manual reviews.
 # License
-* ASTD
-* ArSenTD
+* ASTD (https://github.com/mahmoudnabil/ASTD)
+* ArSenTD (https://arxiv.org/abs/1906.01830v1)
 * three computer science students decided to generate more than a thousand sentences in peace with a cup of coffee ;)
