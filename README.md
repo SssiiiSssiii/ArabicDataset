@@ -12,4 +12,6 @@
 * ASTD (https://github.com/mahmoudnabil/ASTD)
 * ArSenTD (https://arxiv.org/abs/1906.01830v1) arXiv:1906.01830 [cs.CL]
 * three computer science students decided to generate more than a thousand sentences in peace with a cup of coffee ;)
-   * Mohamed Ahmed Abel
+   * MOHAMED AHMED ABDEL FATTAH
+   * YOUSSEF HAMADA IBRAHIM
+   * MOHAMED GHAREEB MOHAMED
