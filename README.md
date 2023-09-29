@@ -1,10 +1,10 @@
 # ArabicDataset
  About 7,000 Arabic sentences
 * Economy 
-* Political 
 * Sport
 * Culture
-* General 
+* General
+* Political 
 # Why is this dataset different from others?
 * Higher accuracy and clarity.
 * Multiple manual reviews.
