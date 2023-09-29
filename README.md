@@ -17,3 +17,6 @@
    * MOHAMED AHMED ABDEL FATTAH
    * YOUSSEF HAMADA IBRAHIM
    * MOHAMED GHAREEB MOHAMED
+ 
+# Note :
+* **This dataset includes sentences for NLP training, but it does not reflect any particular viewpoint. It is provided for research and educational purposes, and I am not responsible for the content of the sentences.**
