@@ -17,6 +17,11 @@
    * MOHAMED AHMED ABDEL FATTAH
    * YOUSSEF HAMADA IBRAHIM
    * MOHAMED GHAREEB MOHAMED
- 
+# citation
+* If you use this dataset in your work, please cite it as follows:        
+Dataset Title: Arabic Dataset     
+Authors: Mohamed Ahmed Abdel Fattah, Youssef Hamada Ibrahim, Mohamed Ghareeb Mohamed             
+Publication Date: September 27, 2023                           
+Repository: ArabicDataset GitHub Repository                 
 # Note :
 * **This dataset includes sentences for NLP training, but it does not reflect any particular viewpoint. It is provided for research and educational purposes, and I am not responsible for the content of the sentences.**
