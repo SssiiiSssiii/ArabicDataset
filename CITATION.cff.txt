@@ -1,0 +1,4 @@
+Dataset Title: Arabic Dataset
+Authors: Mohamed Ahmed Abdel Fattah, Youssef Hamada Ibrahim, Mohamed Ghareeb Mohamed
+Publication Date: September 27, 2023
+Repository: https://github.com/SssiiiSssiii/ArabicDataset
