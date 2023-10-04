@@ -18,7 +18,9 @@
    * YOUSSEF HAMADA IBRAHIM
    * MOHAMED GHAREEB MOHAMED
 # citation
-* If you use this dataset in your work, please cite it as follows:        
-Abdel Fattah, M., Hamada, Y., & Ghareeb, M. (2023). Arabic Dataset [Computer software]. https://github.com/SssiiiSssiii/ArabicDataset           
+* If you use this dataset in your work, please cite it as follows:
+```c   
+Abdel Fattah, M., Hamada, Y., & Ghareeb, M. (2023). Arabic Dataset [Computer software]. https://github.com/SssiiiSssiii/ArabicDataset      
+```
 # Note :
 * **This dataset includes sentences for NLP training, but it does not reflect any particular viewpoint. It is provided for research and educational purposes, and I am not responsible for the content of the sentences.**
